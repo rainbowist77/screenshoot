@@ -6,7 +6,7 @@ This is my first Java program using Maven, aiming to avoid poor screenshoot prob
 All you need is to press F9, and then your screenshot will automatically appear both on your PC and clipborad.
 ## Usage
 Please locate the system tray first, and then:
-- left-click to open the latest file
+- left-click to open the latest file since last launch
 - right-click to open the popup menu
 ## FAQ
 ### Q: How can I change the hotkey?
